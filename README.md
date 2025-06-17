@@ -1,2 +1,2 @@
 # LearnFR
-Application android d'apprentissage des langues, créée pour m'aider a apprendre le français
+Android app made for me to learn french, using flutter & flutterflow
